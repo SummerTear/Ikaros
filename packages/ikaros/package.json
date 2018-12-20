@@ -1,0 +1,11 @@
+{
+  "name": "ikaros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "hasha": "^3.0.0",
+    "polka": "^0.5.1"
+  }
+}

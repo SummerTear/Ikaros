@@ -1,0 +1,17 @@
+
+# hello
+
+GET http://localhost:3000
+
+# get image
+
+GET http://localhost:3000/satomi/xxxxx.png
+
+# upload file
+
+POST http://localhost:3000/upload
+Content-Type: application/json
+
+{
+  "key": "app-key"
+}
